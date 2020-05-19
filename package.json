@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "test:build": "node example/build.js"
+  },
+  "devDependencies": {
+    "node": "^14.2.0",
+    "vue": "^2.6.11",
+    "vue-loader": "^15.9.2",
+    "webpack": "^4.43.0",
+    "webpack-merge": "^4.2.2",
+    "webpack-node-externals": "^1.7.2"
+  },
+  "dependencies": {
+    "vue-server-renderer": "^2.6.11",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
