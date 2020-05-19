@@ -13,5 +13,22 @@
   "dependencies": {
     "vue-server-renderer": "^2.6.11",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "name": "vue-prerender-plugin",
+  "version": "0.1.0",
+  "description": "A webpack plugin to pre-render Vue pages",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bongnv/vue-prerender-plugin.git"
+  },
+  "author": "Bong Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bongnv/vue-prerender-plugin/issues"
+  },
+  "homepage": "https://github.com/bongnv/vue-prerender-plugin#readme"
 }
